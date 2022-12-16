@@ -12,17 +12,17 @@ body{
 .container{
   width: 100%;
   margin: 1em auto;
-  background-color: whitesmoke;
+  background-color: white;
 }
 
 .grid{
   display: grid;
-  margin-left: .5px;
+  margin-left: 2px;
   grid-template-columns: repeat(4,1fr);
-  grid-gap: 0.2em;
+  grid-gap: 5px;
   justify-content: center;
 }
 
 h2{
-  background-color: antiquewhite;
+  background-color: white;
 }
