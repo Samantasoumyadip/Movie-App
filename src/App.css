@@ -7,13 +7,12 @@ body{
   text-decoration: none;
   list-style-type: none;
   outline: none;
-  background-image: url("image.jpg");
 }
 
 .container{
   width: 100%;
   margin: 1em auto;
-  background-color: darkslategray;
+  background-color: whitesmoke;
 }
 
 .grid{

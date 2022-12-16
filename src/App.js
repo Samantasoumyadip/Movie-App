@@ -41,7 +41,7 @@ function App() {
   }
   return (
     <>
-    <Navbar bg="dark" expand="lg" variant="dark">
+    <Navbar bg="light" expand="lg" variant="dark">
       <Container fluid>
         <Navbar.Brand href="/home">MovieDb App</Navbar.Brand>
         <Navbar.Brand href="/home">Trending</Navbar.Brand>
